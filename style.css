@@ -1,0 +1,46 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background: #EAE2B7;
+    color: #003049;
+}
+
+ol {
+    width: 200px;
+    padding: 1em;
+    border: 1px solid #CCC; 
+    color: #003049;
+    background: #FCBF49;
+}
+
+form {
+    width: 200px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    background: #F77F00;
+    color: #003049;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  label {
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+  }
+  
+  textarea {
+    vertical-align: top;
+    height: 5em;
+  }
+  
+  .button {
+    padding-left: 90px;
+  }
+  
+  button {
+    margin-left: .5em;
+  }
